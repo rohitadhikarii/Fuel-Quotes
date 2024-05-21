@@ -5,7 +5,7 @@
 This project was developed as part of a university course on software design. The goal of the project is to create a functional web application using Django, a high-level Python web framework. The application provides various features including user authentication, data management, and dynamic content rendering. Our team followed best practices in software development, including version control with Git, using virtual environments for dependency management, and writing unit tests to ensure code quality. This repository contains all the necessary files to set up and run the application locally, as well as detailed instructions on how to get started. We hope this project serves as a useful resource for understanding Django development and best practices in web application design.
 
 
-## Prerequisites
+### Prerequisites
 
 Prerequisites
 
